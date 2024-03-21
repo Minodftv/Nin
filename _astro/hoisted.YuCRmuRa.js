@@ -1,0 +1,1 @@
+import"./DialogTerms.astro_astro_type_script_index_0_lang.rFXZ7gUr.js";import"./hoisted.CaREk9lS.js";document.addEventListener("astro:page-load",function(){const t=document.querySelector('form#claim input[name="q"]');if(!t)return;const e=document.querySelector("form#claim button");e&&t.value&&e.removeAttribute("disabled")});
